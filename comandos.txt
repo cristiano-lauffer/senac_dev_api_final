@@ -1,0 +1,8 @@
+# Cria a estrutura central do site
+django-admin startproject despesas
+
+# Entre na pasta criada
+cd despesas
+
+# Cria o aplicativo
+python manage.py startapp core
