@@ -27,6 +27,7 @@ pip install django djangorestframework mysqlclient django-cors-headers
 Ainda na mesma janela aberta, para rodar a aplicação:
 
 ```powershell
+cd .\despesas\
 python manage.py runserver
 ```
 
